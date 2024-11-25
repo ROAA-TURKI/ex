@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj": {}
+    "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj": {
+    "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
+        "projectUniqueName": "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
         "projectName": "ConsoleApp1moragah",
-        "projectPath": "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
+        "projectPath": "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
         "packagesPath": "C:\\Users\\roaat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\obj\\",
+        "outputPath": "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roaat\\AppData\\Roaming\\NuGet\\NuGet.Config",

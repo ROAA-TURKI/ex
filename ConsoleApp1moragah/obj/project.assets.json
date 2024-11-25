@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
+      "projectUniqueName": "C:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
       "projectName": "ConsoleApp1moragah",
-      "projectPath": "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
+      "projectPath": "C:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\ConsoleApp1moragah.csproj",
       "packagesPath": "C:\\Users\\roaat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roaat\\moragah\\ConsoleApp1moragah\\obj\\",
+      "outputPath": "C:\\Users\\roaat\\OneDrive\\سطح المكتب\\git\\ex\\ConsoleApp1moragah\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roaat\\AppData\\Roaming\\NuGet\\NuGet.Config",

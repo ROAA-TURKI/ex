@@ -1,0 +1,15 @@
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\bin\Debug\net8.0\ConsoleApp1moragah.exe
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\bin\Debug\net8.0\ConsoleApp1moragah.deps.json
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\bin\Debug\net8.0\ConsoleApp1moragah.runtimeconfig.json
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\bin\Debug\net8.0\ConsoleApp1moragah.dll
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\bin\Debug\net8.0\ConsoleApp1moragah.pdb
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.AssemblyInfoInputs.cache
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.AssemblyInfo.cs
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.csproj.CoreCompileInputs.cache
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.sourcelink.json
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.dll
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\refint\ConsoleApp1moragah.dll
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.pdb
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ConsoleApp1moragah.genruntimeconfig.cache
+c:\Users\roaat\OneDrive\سطح المكتب\git\ex\ConsoleApp1moragah\obj\Debug\net8.0\ref\ConsoleApp1moragah.dll
